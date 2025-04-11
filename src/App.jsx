@@ -5,7 +5,7 @@ import MobileNavigation from "./components/MobileNavigation";
 import axios from "axios";
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
-import { setBannerData ,setImageURL } from "./Store/Netflix";
+import { setBannerData ,setImageURL } from "./store/Netflix";
 
 
 

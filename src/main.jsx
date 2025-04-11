@@ -6,7 +6,7 @@ import { RouterProvider } from 'react-router-dom'
 import router from './Routes/index.jsx'
 import axios from 'axios'
 import { Provider } from 'react-redux'
-import { store } from './Store/Store.jsx'
+import { store } from './store/store.jsx'
 
 // Import the CSS
 import './App.css';
